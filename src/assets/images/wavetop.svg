@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 668 45" width="668" height="45">
+	<title>Vector</title>
+	<defs>
+		<image  width="668" height="61" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAApwAAAA9CAMAAAA3Skn1AAAAAXNSR0IB2cksfwAAADxQTFRFAAAAEN+AENdwDNd0DdlzC9d1Ctl2C9h1C9p1C9p1C9p1Ctl2Ctl1Ctl1Cdh0C9p1Ctl1Ctl0Ctd0CNd4ENPM2wAAABR0Uk5TABAgQFBggJCfv8/f/+9wMK+ggCBqWyPEAAADBklEQVR4nO3c2XKjMBQEULOI1SAy+f9/HSlyOaSMXSySbgv6PKXsFyQ6Vxv4djudLC+KUlVV3TRt23a9cZ8Z7Afmi6apq1GVRZ5LXzDN5booR3Pz2raXvhRfctuiZmq74b5d309NNZY6k27FRZlqotzd+1NG7tLXdUymC1U1+xK5ZOineixzhjQ4Wx+Vq4/vb4f0Re6ki7GeWl+ZfGEyqgpG1DMTSLVpeJO+4I0yXZpK+eGfzaehrRWH+mPMAsBWyH3zLemLX83WynCl8oO+GVlEN7KTSJvIg1VEuhkrmGI5dX6CthsTuoJblPpbAWCHEyGWMyahHOVfmaWNhyq5RLplb4DF8pedh3Jj1MpdJkPOtKSb+CIrRsxYzthBXrqfxLjduyhrUummzulSZsmziymh5aXG+KyIuFHiSDfZMeXyC71cLumuMMb/7JOI3B3plptcgs4u1zJj/EkDKpfKB9HGl1U6w/hHw3SqSagdwREqhlDzk5perjO0/9LfChU76lgk0P7z5fJXuqskxM27yB1w4lw+pbZKQoylE6sHvi+Ryyd7mBSra/fDjaUToQvMevxKuXxCnoSix9IJ2wf2uCfqti0cuDE+jVg64XohgWPISDAOk1D2hzYI0g924SPdMDSCD91ldn8oxQHMe0ecZmM9BJPQmDXUvjcQ9rmhsHz2xeUnmOsMU/C3P9zbLOmm8sFTb2hVpzWdEdcHiah9ni3lWvnX8f646k6RF33XjB4yal+QCPzgr4RjnaJVkk+6wRnsrzqoUm/adXr8FIHHd3bQ7M5ldq0jn1iGvmubpqpGpVRh5Zb++bMwn1VVZX9lp7vE5H5XMDW3MCkCFkyCxYJJsNYWTC7JKbo1BZNLchLBgkmw3gfzu+ShD4laDiZPyQnAwkjOvSLCwKUPwZqP5CyYBOWx9OGD64TnxqUPobpJXwDROwwnwWI4CRbDSbAYToLFcBIshpNgMZwEi+EkWAwnwWI4CRbDSbAYToLFcBIshpNgMZwEi+EkWAwnwWI4CRbDSbD+A0l9sfZzhYTzAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

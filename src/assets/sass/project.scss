@@ -1,0 +1,77 @@
+.project-section {
+  width: 79vw;
+  padding: 1vw 10vw 5vw;
+  position: relative;
+
+  .wave {
+    position: absolute;
+    top: 50vh;
+    left: 0;
+    z-index: -1;
+    width: 100vw;
+  }
+
+  .line {
+    position: absolute;
+    bottom: 10vh;
+    left: 0;
+    z-index: -1;
+    width: 100vw;
+  }
+}
+
+.project-container {
+  border-radius: 2vw;
+  padding: 1vw 3vw;
+  margin-top: 7vh;
+  position: relative;
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .title {
+      display: flex;
+      align-items: center;
+    }
+
+    .subtitle {
+      font-weight: 400;
+      font-size: 1vw;
+      padding-left: 0.5vw;
+      padding-top: 0.5vh;
+    }
+
+    .stores {
+      img {
+        width: 2.5vw;
+        margin-left: 1.5vw;
+      }
+    }
+  }
+
+  .phones {
+    display: grid;
+
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1vw;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .flutterweb {
+    background-color: #7429c6;
+    border-radius: 5px;
+    padding: 1vh 1vw;
+    position: absolute;
+    top: 2vh;
+    right: -2.6vw;
+    font-size: 1.2vw;
+    transform: rotate(23deg);
+  }
+}
+
+.project-container-true {
+  color: black;
+}

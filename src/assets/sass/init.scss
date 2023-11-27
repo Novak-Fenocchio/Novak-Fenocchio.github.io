@@ -1,0 +1,111 @@
+.init {
+  background-image: url("../images/lights.svg");
+  background-size: 100%;
+
+  height: 98vh;
+  width: 99vw;
+
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2vw 43vw 2vw 3vw;
+
+    a {
+      text-decoration: none;
+    }
+
+    span {
+      font-size: 1.4vw;
+      color: #fff;
+    }
+
+    .name {
+      font-weight: bold;
+      font-size: 2vw;
+      color: #0ad975;
+    }
+
+    .right {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+      span {
+        margin-right: 1vw;
+      }
+    }
+  }
+
+  .me {
+    margin: 10vw 0 0 12vw;
+
+    h1 {
+      font-size: 7vw;
+      line-height: 11vh;
+      margin-bottom: 0;
+    }
+
+    h3 {
+      margin-top: 2vh;
+      font-weight: 500;
+      font-size: 1.4vw;
+      color: #0ad975;
+    }
+  }
+
+  .slider-phones {
+    width: 39vw;
+    height: 95vh;
+    position: absolute;
+    top: 0;
+    right: 3vw;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    overflow-y: hidden;
+    padding-top: 3vh;
+    padding-right: 0vw;
+
+    .phone {
+      text-align: center;
+      width: 12vw;
+      margin-bottom: 1vw;
+    }
+
+    .middle {
+      transform: translateY(-15vh);
+    }
+    .right {
+      transform: translateY(-8vh);
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+
+  button {
+    background-color: #0ad975;
+    border: none;
+    border-radius: 5px;
+    width: 10vw;
+    font-size: 1.3vw;
+    height: 5vh;
+
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+  }
+
+  button:hover {
+    cursor: pointer;
+  }
+
+  .wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+  }
+}

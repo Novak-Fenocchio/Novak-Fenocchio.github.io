@@ -1,0 +1,152 @@
+.packages-screen {
+  width: 79vw;
+  padding: 1vw 10vw 5vw;
+  position: relative;
+
+  .package {
+    background-color: #0ad975;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    padding: 2vw 3vw;
+    border-radius: 2vw;
+    margin-top: 5vh;
+    height: 45vh;
+    align-items: center;
+    position: relative;
+
+    .texts {
+      height: 100%;
+      width: 90%;
+    }
+
+    img {
+      width: 100%;
+    }
+
+    .codeinstall {
+      font-weight: bold;
+    }
+
+    .code {
+      font-style: italic;
+
+      code {
+        padding: 0.3vh 0.5vw;
+        background-color: rgb(62, 62, 62);
+        font-size: 1.3vw;
+      }
+    }
+
+    button {
+      border: none;
+      font-size: 1.3vw;
+      position: absolute;
+      bottom: 6vh;
+      border-radius: 5px;
+      display: flex;
+      padding: 1vh 1vw;
+      align-items: center;
+
+      img {
+        margin-right: 1vw;
+        width: 1.5vw;
+      }
+    }
+
+    .flutterbutton {
+      background-color: #15202e;
+      color: white;
+    }
+    .reactbutton {
+      background-color: #a50b06;
+      color: white;
+
+      img {
+        padding-top: 0.3vh;
+        width: 2.5vw;
+      }
+    }
+  }
+
+  .star1 {
+    position: absolute;
+    top: 2vh;
+    left: 2vw;
+  }
+  .star2 {
+    position: absolute;
+    top: 12vh;
+    left: 6vw;
+  }
+  .star3 {
+    position: absolute;
+    top: 8vh;
+    right: 4vw;
+  }
+  .star4 {
+    right: 6vw;
+    position: absolute;
+    top: 17vh;
+  }
+
+  .star5 {
+    position: absolute;
+    top: 68vh;
+    right: 4vw;
+  }
+  .star6 {
+    right: 6vw;
+    position: absolute;
+    top: 67vh;
+  }
+  .star7 {
+    position: absolute;
+    top: 68vh;
+    left: 4vw;
+  }
+  .star8 {
+    left: 6vw;
+    position: absolute;
+    top: 47vh;
+  }
+  .star9 {
+    position: absolute;
+    top: 100vh;
+    left: 2vw;
+  }
+  .star10 {
+    left: 6vw;
+    position: absolute;
+    top: 125vh;
+  }
+  .star9 {
+    position: absolute;
+    top: 130vh;
+    left: 1vw;
+  }
+  .star10 {
+    left: 5vw;
+    position: absolute;
+    top: 145vh;
+  }
+  .star11 {
+    position: absolute;
+    top: 123vh;
+    right: 1vw;
+  }
+  .star12 {
+    right: 5vw;
+    position: absolute;
+    top: 155vh;
+  }
+  .star13 {
+    position: absolute;
+    top: 173vh;
+    right: 1vw;
+  }
+  .star14 {
+    right: 2vw;
+    position: absolute;
+    top: 185vh;
+  }
+}
