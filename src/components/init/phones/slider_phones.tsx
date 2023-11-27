@@ -1,4 +1,3 @@
-import React from "react";
 import GuatapayPhones from "../../general/phones/guatapay/guatapay_phones";
 import AdamoPhones from "../../general/phones/adamo/adamo_phones";
 import LimboScanPhones from "../../general/phones/limboscan/limboscan_phones";
